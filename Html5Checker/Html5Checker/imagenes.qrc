@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/imagenes/banner.png</file>
+        <file>recursos/imagenes/button.png</file>
+        <file>recursos/imagenes/button2.png</file>
+        <file>recursos/imagenes/logo.png</file>
+        <file>recursos/imagenes/logo2.png</file>
+        <file>recursos/imagenes/close.png</file>
+        <file>recursos/imagenes/file_add.png</file>
+        <file>recursos/imagenes/fondo.png</file>
+        <file>recursos/imagenes/frameBlanco.png</file>
+        <file>recursos/imagenes/negro.gif</file>
+        <file>recursos/imagenes/negro2.gif</file>
+        <file>recursos/imagenes/negro3.gif</file>
+        <file>recursos/imagenes/negro4.gif</file>
+        <file>recursos/imagenes/transparencia.png</file>
+        <file>recursos/imagenes/fondonexus.png</file>
+        <file>recursos/imagenes/logofinal.png</file>
+    </qresource>
+</RCC>
